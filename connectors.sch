@@ -1,11 +1,9 @@
 v 20100214 2
 C 40000 40000 0 0 0 title-B.sym
-C 42300 43000 1 0 0 arduino-uno.sym
+C 42300 43000 1 0 0 arduino-1.sym
 {
 T 44400 48595 5 10 1 1 0 0 1
 refdes=U101
-T 42300 42995 5 10 0 1 0 0 1
-footprint=arduino-uno
 }
 C 46700 45900 1 0 0 output-2.sym
 {
