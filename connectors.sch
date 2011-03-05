@@ -4,6 +4,10 @@ C 42300 43000 1 0 0 arduino-1.sym
 {
 T 44400 48595 5 10 1 1 0 0 1
 refdes=U101
+T 42300 42995 5 10 0 1 0 0 1
+footprint=ARDUINO_UNO
+T 42300 42995 5 10 0 1 0 0 1
+device=ARDUINO_UNO
 }
 C 46700 45900 1 0 0 output-2.sym
 {
