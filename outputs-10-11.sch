@@ -18,20 +18,9 @@ refdes=R301
 T 43700 45500 5 10 1 1 0 0 1
 value=10k
 T 43400 45800 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 42900 45900 43400 45900 4
-C 45300 45700 1 0 0 quad_opamp-1.sym
-{
-T 45900 46300 5 10 0 0 0 0 1
-device=QUAD_OPAMP
-T 45500 46600 5 10 1 1 0 0 1
-refdes=U301
-T 47700 48000 5 10 0 0 0 0 1
-footprint=DIL 14 300
-T 45500 48200 5 10 0 0 0 0 1
-symversion=0.1
-}
 C 44600 45400 1 270 0 capacitor-2.sym
 {
 T 45300 45200 5 10 0 0 270 0 1
@@ -72,7 +61,7 @@ refdes=R302
 T 45700 47500 5 10 1 1 0 0 1
 value=10k
 T 45400 47800 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 43800 47800 1 0 0 resistor-1.sym
 {
@@ -83,7 +72,7 @@ refdes=R303
 T 44100 47500 5 10 1 1 0 0 1
 value=10k
 T 43800 47800 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 43300 47100 1 0 0 gnd-1.sym
 N 43400 47400 43400 47900 4
@@ -111,22 +100,9 @@ refdes=R304
 T 51000 45700 5 10 1 1 0 0 1
 value=10k
 T 50700 46000 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 50200 46100 50700 46100 4
-C 52600 45900 1 0 0 quad_opamp-1.sym
-{
-T 53200 46500 5 10 0 0 0 0 1
-device=QUAD_OPAMP
-T 52800 46800 5 10 1 1 0 0 1
-refdes=U301
-T 55000 48200 5 10 0 0 0 0 1
-footprint=DIL 14 300
-T 52800 48400 5 10 0 0 0 0 1
-symversion=0.1
-T 52600 45900 5 10 0 0 0 0 1
-slot=2
-}
 C 51900 45600 1 270 0 capacitor-2.sym
 {
 T 52600 45400 5 10 0 0 270 0 1
@@ -167,7 +143,7 @@ refdes=R305
 T 53000 47700 5 10 1 1 0 0 1
 value=10k
 T 52700 48000 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 51100 48000 1 0 0 resistor-1.sym
 {
@@ -178,7 +154,7 @@ refdes=R306
 T 51400 47700 5 10 1 1 0 0 1
 value=10k
 T 51100 48000 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 50600 47300 1 0 0 gnd-1.sym
 N 50700 47600 50700 48100 4
@@ -198,3 +174,27 @@ T 52100 40100 9 10 1 0 0 0 1
 3
 T 53900 40100 9 10 1 0 0 0 1
 Jonathan Lamothe
+C 45300 45700 1 0 0 dual-opamp-1.sym
+{
+T 45500 48000 5 10 0 0 0 0 1
+device=DUAL_OPAMP
+T 45500 46600 5 10 1 1 0 0 1
+refdes=U301
+T 45500 47600 5 10 0 0 0 0 1
+footprint=DIL 8 300
+T 45500 48200 5 10 0 0 0 0 1
+symversion=0.2
+}
+C 52600 45900 1 0 0 dual-opamp-1.sym
+{
+T 52800 48200 5 10 0 0 0 0 1
+device=DUAL_OPAMP
+T 52800 46800 5 10 1 1 0 0 1
+refdes=U301
+T 52800 47800 5 10 0 0 0 0 1
+footprint=DIL 8 300
+T 52800 48400 5 10 0 0 0 0 1
+symversion=0.2
+T 52600 45900 5 10 0 0 0 0 1
+slot=2
+}

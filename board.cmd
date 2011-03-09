@@ -1,5 +1,17 @@
 # Pin name action command file
 
+# Start of element U301
+ChangePinName(U301, 4, V-)
+ChangePinName(U301, 8, V+)
+ChangePinName(U301, 7, OUT)
+ChangePinName(U301, 6, IN-)
+ChangePinName(U301, 5, IN+)
+ChangePinName(U301, 4, V-)
+ChangePinName(U301, 8, V+)
+ChangePinName(U301, 1, OUT)
+ChangePinName(U301, 2, IN-)
+ChangePinName(U301, 3, IN+)
+
 # Start of element R306
 ChangePinName(R306, 1, 1)
 ChangePinName(R306, 2, 2)
@@ -27,18 +39,6 @@ ChangePinName(R302, 2, 2)
 # Start of element C301
 ChangePinName(C301, 2, -)
 ChangePinName(C301, 1, +)
-
-# Start of element U301
-ChangePinName(U301, 4, V-)
-ChangePinName(U301, 11, V+)
-ChangePinName(U301, 7, OUT)
-ChangePinName(U301, 6, IN-)
-ChangePinName(U301, 5, IN+)
-ChangePinName(U301, 4, V-)
-ChangePinName(U301, 11, V+)
-ChangePinName(U301, 1, OUT)
-ChangePinName(U301, 2, IN-)
-ChangePinName(U301, 3, IN+)
 
 # Start of element R301
 ChangePinName(R301, 1, 1)

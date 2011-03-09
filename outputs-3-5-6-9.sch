@@ -18,7 +18,7 @@ refdes=R201
 T 42500 47600 5 10 1 1 0 0 1
 value=10k
 T 42200 47900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 41700 48000 42200 48000 4
 C 44100 47800 1 0 0 quad_opamp-1.sym
@@ -72,7 +72,7 @@ refdes=R202
 T 44500 49600 5 10 1 1 0 0 1
 value=10k
 T 44200 49900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 42600 49900 1 0 0 resistor-1.sym
 {
@@ -83,7 +83,7 @@ refdes=R203
 T 42900 49600 5 10 1 1 0 0 1
 value=10k
 T 42600 49900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 42100 49200 1 0 0 gnd-1.sym
 N 42200 49500 42200 50000 4
@@ -111,7 +111,7 @@ refdes=R204
 T 49800 47800 5 10 1 1 0 0 1
 value=10k
 T 49500 48100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 49000 48200 49500 48200 4
 C 51400 48000 1 0 0 quad_opamp-1.sym
@@ -167,7 +167,7 @@ refdes=R205
 T 51800 49800 5 10 1 1 0 0 1
 value=10k
 T 51500 50100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 49900 50100 1 0 0 resistor-1.sym
 {
@@ -178,7 +178,7 @@ refdes=R206
 T 50200 49800 5 10 1 1 0 0 1
 value=10k
 T 49900 50100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 49400 49400 1 0 0 gnd-1.sym
 N 49500 49700 49500 50200 4
@@ -206,7 +206,7 @@ refdes=R207
 T 44800 43600 5 10 1 1 0 0 1
 value=10k
 T 44500 43900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 44000 44000 44500 44000 4
 C 46400 43800 1 0 0 quad_opamp-1.sym
@@ -262,7 +262,7 @@ refdes=R208
 T 46800 45600 5 10 1 1 0 0 1
 value=10k
 T 46500 45900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 44900 45900 1 0 0 resistor-1.sym
 {
@@ -273,7 +273,7 @@ refdes=R209
 T 45200 45600 5 10 1 1 0 0 1
 value=10k
 T 44900 45900 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 44400 45200 1 0 0 gnd-1.sym
 N 44500 45500 44500 46000 4
@@ -301,7 +301,7 @@ refdes=R210
 T 52100 43800 5 10 1 1 0 0 1
 value=10k
 T 51800 44100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 N 51300 44200 51800 44200 4
 C 53700 44000 1 0 0 quad_opamp-1.sym
@@ -357,7 +357,7 @@ refdes=R211
 T 54100 45800 5 10 1 1 0 0 1
 value=10k
 T 53800 46100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 52200 46100 1 0 0 resistor-1.sym
 {
@@ -368,7 +368,7 @@ refdes=R212
 T 52500 45800 5 10 1 1 0 0 1
 value=10k
 T 52200 46100 5 10 0 1 0 0 1
-footprint=R025
+footprint=SMD_SIMPLE 61 31
 }
 C 51700 45400 1 0 0 gnd-1.sym
 N 51800 45700 51800 46200 4
