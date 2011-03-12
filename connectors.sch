@@ -152,3 +152,6 @@ N 52200 46700 53100 46700 4
 N 52200 46400 53100 46400 4
 N 52200 46100 53100 46100 4
 N 52200 45800 53100 45800 4
+T 49500 40900 9 10 1 0 0 0 2
+Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>
+Licensed under GPLv3 (or later)

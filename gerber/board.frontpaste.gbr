@@ -1,7 +1,7 @@
-G04 start of page 10 for group -4015 idx -4015 *
+G04 start of page 8 for group -4015 idx -4015 *
 G04 Title: (unknown), toppaste *
 G04 Creator: pcb 20091103 *
-G04 CreationDate: Wed 09 Mar 2011 02:16:16 PM GMT UTC *
+G04 CreationDate: Sat 12 Mar 2011 01:57:14 PM GMT UTC *
 G04 For: jlamothe *
 G04 Format: Gerber/RS-274X *
 G04 PCB-Dimensions: 200000 210000 *
@@ -9,8 +9,8 @@ G04 PCB-Coordinate-Origin: lower left *
 %MOIN*%
 %FSLAX25Y25*%
 %LNFRONTPASTE*%
-%ADD15R,0.0300X0.0300*%
-G54D15*X14000Y135000D02*X15000D01*
+%ADD16R,0.0300X0.0300*%
+G54D16*X14000Y135000D02*X15000D01*
 X14000Y128900D02*X15000D01*
 X14000Y185000D02*X15000D01*
 X14000Y178900D02*X15000D01*

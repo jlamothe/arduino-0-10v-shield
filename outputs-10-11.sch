@@ -198,3 +198,6 @@ symversion=0.2
 T 52600 45900 5 10 0 0 0 0 1
 slot=2
 }
+T 49500 40900 9 10 1 0 0 0 2
+Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>
+Licensed under GPLv3 (or later)

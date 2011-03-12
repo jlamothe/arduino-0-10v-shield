@@ -388,3 +388,6 @@ T 52100 40100 9 10 1 0 0 0 1
 3
 T 53900 40100 9 10 1 0 0 0 1
 Jonathan Lamothe
+T 49500 40900 9 10 1 0 0 0 2
+Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>
+Licensed under GPLv3 (or later)
