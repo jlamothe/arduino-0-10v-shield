@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Sat Mar 12 08:55:37 2011
+# date:    Sat Mar 12 09:18:19 2011
 # user:    jlamothe (Jonathan Lamothe,,,)
 # host:    compe
 
@@ -8,7 +8,7 @@ FileVersion[20070407]
 
 PCB["" 200000 210000]
 
-Grid[5000.000000 0 0 1]
+Grid[2500.000000 0 0 1]
 Cursor[0 0 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
@@ -1488,6 +1488,13 @@ Layer(10 "silk")
 (
 	Text[10000 125000 0 100 "Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>" ""]
 	Text[10000 135000 0 100 "Licensed under GPLv3 (or later)" ""]
+	Text[175000 147500 0 100 "3" ""]
+	Text[175000 157500 0 100 "5" ""]
+	Text[175000 167500 0 100 "6" ""]
+	Text[175000 177500 0 100 "9" ""]
+	Text[172500 187500 0 100 "10" ""]
+	Text[172500 197500 0 100 "11" ""]
+	Text[167500 185000 1 100 "0-10V OUT" ""]
 )
 NetList()
 (
