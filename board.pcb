@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Sat Mar 12 12:14:46 2011
+# date:    Sat Mar 12 12:23:50 2011
 # user:    jlamothe (Jonathan Lamothe,,,)
 # host:    compe
 
@@ -1204,7 +1204,7 @@ Element["" "SMD_SIMPLE-61-31" "R306" "10k" 40000 160500 2500 5000 0 100 ""]
 	ElementLine [9100 -3500 -3000 -3500 800]
 
 	)
-Layer(1 "component")
+Layer(1 "layer1")
 (
 	Line[135001 90000 122900 90000 1000 2000 "clearline,auto"]
 	Line[135000 60000 135000 90001 1000 2000 "clearline,auto"]
@@ -1411,7 +1411,7 @@ Layer(1 "component")
 	Line[119501 64500 105000 64500 1000 2000 "clearline,auto"]
 	Line[105000 60000 105000 64501 1000 2000 "clearline,auto"]
 )
-Layer(2 "solder")
+Layer(2 "layer2")
 (
 	Line[122901 133302 98400 133302 1000 2000 "clearline,auto"]
 	Line[122900 96550 122900 133303 1000 2000 "clearline,auto"]
