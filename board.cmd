@@ -130,6 +130,16 @@ ChangePinName(U201, 3, IN+)
 ChangePinName(R201, 1, 1)
 ChangePinName(R201, 2, 2)
 
+# Start of element SW101
+ChangePinName(SW101, 4, 4)
+ChangePinName(SW101, 3, 3)
+ChangePinName(SW101, 2, 2)
+ChangePinName(SW101, 1, 1)
+
+# Start of element CONN102
+ChangePinName(CONN102, 1, 1)
+ChangePinName(CONN102, 2, 2)
+
 # Start of element CONN101
 ChangePinName(CONN101, 5, 5)
 ChangePinName(CONN101, 3, 3)
