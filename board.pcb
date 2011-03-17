@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Wed Mar 16 20:52:23 2011
+# date:    Wed Mar 16 20:58:59 2011
 # user:    jlamothe (Jonathan Lamothe,,,)
 # host:    compe
 
@@ -1561,6 +1561,8 @@ Layer(8 "signal3")
 )
 Layer(9 "silk")
 (
+	Text[96000 172000 0 100 "(C) 2011 JONATHAN LAMOTHE" "auto"]
+	Text[89000 166000 0 100 "LICENSED UNDER GPLv3 (OR LATER)" "auto"]
 )
 Layer(10 "silk")
 (
