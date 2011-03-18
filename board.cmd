@@ -1,5 +1,13 @@
 # Pin name action command file
 
+# Start of element C302
+ChangePinName(C302, 2, 2)
+ChangePinName(C302, 1, 1)
+
+# Start of element C301
+ChangePinName(C301, 2, 2)
+ChangePinName(C301, 1, 1)
+
 # Start of element U301
 ChangePinName(U301, 4, V-)
 ChangePinName(U301, 8, V+)
@@ -20,10 +28,6 @@ ChangePinName(R306, 2, 2)
 ChangePinName(R305, 1, 1)
 ChangePinName(R305, 2, 2)
 
-# Start of element C302
-ChangePinName(C302, 2, -)
-ChangePinName(C302, 1, +)
-
 # Start of element R304
 ChangePinName(R304, 1, 1)
 ChangePinName(R304, 2, 2)
@@ -36,13 +40,25 @@ ChangePinName(R303, 2, 2)
 ChangePinName(R302, 1, 1)
 ChangePinName(R302, 2, 2)
 
-# Start of element C301
-ChangePinName(C301, 2, -)
-ChangePinName(C301, 1, +)
-
 # Start of element R301
 ChangePinName(R301, 1, 1)
 ChangePinName(R301, 2, 2)
+
+# Start of element C204
+ChangePinName(C204, 2, 2)
+ChangePinName(C204, 1, 1)
+
+# Start of element C203
+ChangePinName(C203, 2, 2)
+ChangePinName(C203, 1, 1)
+
+# Start of element C202
+ChangePinName(C202, 2, 2)
+ChangePinName(C202, 1, 1)
+
+# Start of element C201
+ChangePinName(C201, 2, 2)
+ChangePinName(C201, 1, 1)
 
 # Start of element R212
 ChangePinName(R212, 1, 1)
@@ -51,10 +67,6 @@ ChangePinName(R212, 2, 2)
 # Start of element R211
 ChangePinName(R211, 1, 1)
 ChangePinName(R211, 2, 2)
-
-# Start of element C204
-ChangePinName(C204, 2, -)
-ChangePinName(C204, 1, +)
 
 # Start of element R210
 ChangePinName(R210, 1, 1)
@@ -68,10 +80,6 @@ ChangePinName(R209, 2, 2)
 ChangePinName(R208, 1, 1)
 ChangePinName(R208, 2, 2)
 
-# Start of element C203
-ChangePinName(C203, 2, -)
-ChangePinName(C203, 1, +)
-
 # Start of element R207
 ChangePinName(R207, 1, 1)
 ChangePinName(R207, 2, 2)
@@ -84,10 +92,6 @@ ChangePinName(R206, 2, 2)
 ChangePinName(R205, 1, 1)
 ChangePinName(R205, 2, 2)
 
-# Start of element C202
-ChangePinName(C202, 2, -)
-ChangePinName(C202, 1, +)
-
 # Start of element R204
 ChangePinName(R204, 1, 1)
 ChangePinName(R204, 2, 2)
@@ -99,10 +103,6 @@ ChangePinName(R203, 2, 2)
 # Start of element R202
 ChangePinName(R202, 1, 1)
 ChangePinName(R202, 2, 2)
-
-# Start of element C201
-ChangePinName(C201, 2, -)
-ChangePinName(C201, 1, +)
 
 # Start of element U201
 ChangePinName(U201, 4, V-)
