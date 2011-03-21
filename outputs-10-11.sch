@@ -172,7 +172,7 @@ symversion=0.2
 T 52600 45900 5 10 0 0 0 0 1
 slot=2
 }
-T 49500 40900 9 10 1 0 0 0 2
+T 49500 41000 9 10 1 0 0 0 2
 Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>
 Licensed under GPLv3 (or later)
 C 44600 45400 1 270 0 capacitor-1.sym
@@ -201,3 +201,5 @@ value=10uF
 T 51900 45600 5 10 0 0 270 0 1
 footprint=SMD_SIMPLE 79 49
 }
+T 53900 40400 9 10 1 0 0 0 1
+1

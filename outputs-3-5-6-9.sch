@@ -336,7 +336,7 @@ T 52100 40100 9 10 1 0 0 0 1
 3
 T 53900 40100 9 10 1 0 0 0 1
 Jonathan Lamothe
-T 49500 40900 9 10 1 0 0 0 2
+T 49500 41000 9 10 1 0 0 0 2
 Copyright (C) 2011 Jonathan Lamothe <jonathan@jlamothe.net>
 Licensed under GPLv3 (or later)
 C 43400 47500 1 270 0 capacitor-1.sym
@@ -391,3 +391,5 @@ value=10uF
 T 53000 43700 5 10 0 0 270 0 1
 footprint=SMD_SIMPLE 79 49
 }
+T 53900 40400 9 10 1 0 0 0 1
+1
