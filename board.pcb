@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Mon Mar 21 22:32:21 2011
+# date:    Tue Mar 22 04:57:14 2011
 # user:    jlamothe (Jonathan Lamothe,,,)
 # host:    compe
 
@@ -1581,6 +1581,7 @@ Layer(4 "silk")
 	Text[145000 67500 1 100 "0-10V OUT" ""]
 	Text[10000 140000 0 100 "+ 12VDC IN" ""]
 	Text[10000 195000 0 100 "-" ""]
+	Text[156000 187000 0 100 "rev1" ""]
 )
 NetList()
 (
